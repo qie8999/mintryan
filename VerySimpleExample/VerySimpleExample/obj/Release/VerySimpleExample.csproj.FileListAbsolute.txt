@@ -1,0 +1,10 @@
+D:\GitFrom20201210\mintryan\VerySimpleExample\VerySimpleExample\bin\Release\VerySimpleExample.exe.config
+D:\GitFrom20201210\mintryan\VerySimpleExample\VerySimpleExample\bin\Release\VerySimpleExample.exe
+D:\GitFrom20201210\mintryan\VerySimpleExample\VerySimpleExample\bin\Release\VerySimpleExample.pdb
+D:\GitFrom20201210\mintryan\VerySimpleExample\VerySimpleExample\obj\Release\VerySimpleExample.csprojAssemblyReference.cache
+D:\GitFrom20201210\mintryan\VerySimpleExample\VerySimpleExample\obj\Release\VerySimpleExample.Form1.resources
+D:\GitFrom20201210\mintryan\VerySimpleExample\VerySimpleExample\obj\Release\VerySimpleExample.Properties.Resources.resources
+D:\GitFrom20201210\mintryan\VerySimpleExample\VerySimpleExample\obj\Release\VerySimpleExample.csproj.GenerateResource.cache
+D:\GitFrom20201210\mintryan\VerySimpleExample\VerySimpleExample\obj\Release\VerySimpleExample.csproj.CoreCompileInputs.cache
+D:\GitFrom20201210\mintryan\VerySimpleExample\VerySimpleExample\obj\Release\VerySimpleExample.exe
+D:\GitFrom20201210\mintryan\VerySimpleExample\VerySimpleExample\obj\Release\VerySimpleExample.pdb
